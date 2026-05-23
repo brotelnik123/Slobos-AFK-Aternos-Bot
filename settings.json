@@ -1,14 +1,14 @@
 {
   "name": "moldavsky777",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "moldavsky777",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "avtomatiua.aternos.me",
     "port": 18457,
-    "version": "",
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1507769795783688233/JNaxZxRfTZ2R6na6c-LDv3NEC3ySUgmejNst8eq2EhW4eOK_Zw_rkFQduKkvIKcp8P33",
     "events": {
       "connect": true,
       "disconnect": true,
