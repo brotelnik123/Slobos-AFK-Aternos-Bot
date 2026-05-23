@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "moldavsky777",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-      moldav pidarasina,
-       
-       
+        ".",
+        ".",
+        "."
       ]
     },
     "chat-log": true,
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": true,
+    "beds": false,
     "chat": true,
     "console-commands": true
   },
