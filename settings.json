@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "avtomatiua.aternos.me",
+    "ip": "underwatergroup.aternos.me",
     "port": 18457,
-    "version": "1.21.10",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "https://discord.com/api/webhooks/1507769795783688233/JNaxZxRfTZ2R6na6c-LDv3NEC3ySUgmejNst8eq2EhW4eOK_Zw_rkFQduKkvIKcp8P33",
+    "webhookUrl": "https://discord.com/api/webhooks/1508042988679598121/GhqN1C6-kSN6OR6kH2VRr-WjaYCrFb3TvTRchEv2vusNLNEMmv-HGKv2ar4zKTqzr3In",
     "events": {
       "connect": true,
       "disconnect": true,
